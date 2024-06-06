@@ -1,0 +1,7 @@
+{
+  "name": "bomlembrar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
